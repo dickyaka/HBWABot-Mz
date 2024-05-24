@@ -15,9 +15,9 @@ global.mtl_language = false // multi language i hman dawn chuan true ah dah tur
 global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chuan https://herbert70.blogspot.com/p/language-code-for-hbwabot.html?m=1 he link ah hian en thei a ni ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
+global.owner = ['6283896214738'] // I phone number in thlak rawh
+global.ownernumber = '6283896214738' // I phone number in thlak rawh
+global.ownername = "Kyy Handsome" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "HBWABot Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
@@ -29,7 +29,7 @@ global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "Sticker By"
+global.packname = "Sticker By Kyy Handsome"
 global.author = "HBWABot"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
